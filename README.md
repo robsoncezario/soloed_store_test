@@ -20,8 +20,11 @@
 # Endpoints
  - GET -> /item/all
  - POST -> /item/many
- 
- 
+
+![Image of Soloed1](https://i.imgur.com/0ddJxg0.png)
+![Image of Soloed2](https://i.imgur.com/vKvuGRG.png)
+![Image of Soloed3](https://i.imgur.com/cO5683E.png)
+![Image of Soloed3](https://i.imgur.com/JNUxGaI.png)
  
 
  
