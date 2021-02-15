@@ -5,4 +5,4 @@
   - Material UI
 
 # Configurações do projeto 
-  - Definir variavel ambiente: REACT_APP_BASE_UR
+  - Definir variavel ambiente: REACT_APP_BASE_URL
