@@ -1,11 +1,23 @@
-# Front end 
- # Libs utilizadas
-   - Redux
-   - Axios
-   - Styled components
-   - Material UI
+# Libs utilizadas no front end
+ - Redux
+ - Axios
+ - Styled components
+ - Material UI
 
- # Configurações do projeto 
-   - Definir variavel ambiente: REACT_APP_BASE_URL
+# Variaveis ambiente front end
+ - REACT_APP_BASE_URL
+ 
+# Libs utilizadas no back end
+ - Express
+ 
+# Variaveis ambiente back end
+ - API_PORT
+ 
+# Endpoints
+ - GET -> /item/all
+ - POST -> /item/many
+ 
+ 
+ 
 
  
